@@ -8,7 +8,7 @@ body{
     margin-bottom: 20px;
 
 }
-/ .header{
+ .header{
     margin: 0 auto;
     max-width: 100%;
     background-color:#F15A29;
@@ -36,6 +36,11 @@ body{
     color: white;
     font-family:serif;
 }
+
+
+
+/* services section */
+
 .services {
     display: flex;
     flex-direction: row;
@@ -106,7 +111,7 @@ tr#service1{
     box-shadow: 0px 0px 6px grey;
     overflow: hidden;
 }
-#ff_text{
+#vyakula_text{
     width: 50%;
     height: auto;
     padding: 30px;
@@ -114,7 +119,7 @@ tr#service1{
     font-size: 18px;  
 }
 
-.drinks{
+.vinywaji{
     display: flex;
     background-color: whitesmoke;
 }
@@ -136,7 +141,7 @@ tr#service1{
     box-shadow: 0px 0px 6px grey;
     overflow: hidden;
 }
-#d_text{
+#vinywaji_text{
     float: right;
     width: 50%;
     padding: 20px;
