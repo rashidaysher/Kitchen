@@ -1,5 +1,5 @@
 body{
-    background-color: #d1bbb4;
+    background-color:#fff;
     max-width: 1200px;
     max-height: 100%;
     margin: 0 auto;
@@ -132,7 +132,7 @@ tr#service1{
 
     
 }  
-#ivinywaji_imgs{
+#vinywaji_imgs{
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -151,8 +151,8 @@ tr#service1{
     text-align: right;
     font-size: 18px;  
 }
-.fooditems{
-    background-image: url('assets/backgrounds/foodsBg.jpg');
+.menuitems{
+    background-image: url('../images/foodsBg.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     text-align: center;
