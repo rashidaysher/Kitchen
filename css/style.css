@@ -232,7 +232,7 @@ th:hover{
     box-shadow: 0px 0px 6px grey;
     padding: 20px;
 }
-#vertical { 
+#ourmenu { 
     border-left: 1px solid grey;
     height: 210px; 
     margin: auto;
@@ -254,7 +254,7 @@ th:hover{
     color: #F15A29;
 }
 .food_delivery{
-    background-image: url('assets/backgrounds/subscribe.jpg');
+    background-image: url('../images/subscribe.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     text-align: center;
