@@ -223,7 +223,7 @@ th:hover{
     background-color: whitesmoke; 
     margin-bottom: 0px;
 }
-.rev_abt{
+.revabt{
     height: 200;
     display: flex;
     flex-direction: row;
@@ -237,11 +237,11 @@ th:hover{
     height: 210px; 
     margin: auto;
 }
-#cst_review, #about{
+#review, #about{
     text-align: center; 
     font-size: 16.5px;
 }
-#cst_review{
+#review{
     flex: 3;
     margin-right: 40px;
     text-align: center;
@@ -250,7 +250,7 @@ th:hover{
     flex: 2;
     margin-left: 40px;
 }
-#cst_review > h3, #about >h3{
+#review > h3, #about >h3{
     color: #F15A29;
 }
 .food_delivery{
@@ -284,7 +284,7 @@ th:hover{
 #copyright{
     font-size: 15px;
 }
-#alignlogo{
+#logo{
     align-items: center;
     display: flex;
     justify-content:center;
