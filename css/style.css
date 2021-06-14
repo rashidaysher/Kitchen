@@ -271,20 +271,10 @@ th:hover{
     border: none;
     margin-top: 5px;
     margin: 20px;
-    opacity: 0.5;       /*makes inputfield see through*/
+    opacity: 0.5;       
 }
- ::placeholder{
-    color: white;
-    opacity: 1;
-    padding-left: 10px;
-}
-#Subscribe{
-    background-color: #F15A29;
-    width: 200px;
-    height:50px ;
-    border:none;
-    color: whitesmoke;
-}
+
+
 .footer{
     text-align: center;
     padding-top: 40px; 
@@ -305,6 +295,20 @@ th:hover{
     padding: 5px;
     text-align: center;
 }
+
+ ::placeholder{
+    color: white;
+    opacity: 1;
+    padding-left: 10px;
+}
+#Subscribe{
+    background-color: #F15A29;
+    width: 200px;
+    height:50px ;
+    border:none;
+    color: whitesmoke;
+}
+
 .right {
     transform: rotate(-45deg);
     float: right;
