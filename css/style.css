@@ -8,7 +8,7 @@ body{
     margin-bottom: 20px;
 
 }
-.maindiv{
+/ .header{
     margin: 0 auto;
     max-width: 100%;
     background-color:#F15A29;
@@ -24,8 +24,8 @@ body{
     background-color: #fff;
     margin: 6px 0;
 }
-.menulogo{
-    background-image: url('assets/backgrounds/landing.jpg');
+.menu{
+    background-image: url('../images/landing.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     text-align: center;
@@ -43,7 +43,7 @@ body{
     color: white;
     font-style: italic;
 }
-.funtype{
+.mealtype{
     margin: 0px;
     width: 100%;
     height: 100%;
@@ -51,11 +51,11 @@ body{
     font-style: normal;
   
 }
-tr#serv1{
+tr#service1{
     background-color: lightgray;
     color: black;
 }
-#fun_time{
+#meal_time{
     flex: 1;
     text-align: center;
 
@@ -69,18 +69,18 @@ tr#serv1{
     
 }
 #breakfast{
-    background-image: url('assets/foodtop/breakfast.jpg');
+    background-image: url('../images/breakfast.jpg');
 }
 #lunch{
-    background-image: url('assets/foodtop/lunch.jpg');
+    background-image: url('../images/lunch.jpg');
     background-color: rgba(231, 228, 228, 0.79); 
-    background-blend-mode: overlay;                         /*adds overlay on img bakground in the same div*/
-}
-#dinner{
-    background-image: url('assets/foodtop/dinner.jpg');
+    background-blend-mode: overlay; }                      
+
+ #dinner{
+    background-image: url('../images/dinner.jpg');
 }
 
-.food_drinks{
+.vyakula{
     height: auto;
     width: auto;
     padding: 40px;
@@ -90,14 +90,14 @@ tr#serv1{
     display: flex;
     background-color: whitesmoke;
 }
-#ff_image{
+#chakula{
     width: 50%;
     box-sizing: border-box;
     padding: 40px;
     padding-right: 20px;
     
 }  
-#imgs1{
+#chakula_imgs{
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -123,11 +123,11 @@ tr#serv1{
     box-sizing: border-box;
     float: right;
     padding: 20px;
-    padding-right: 50px;
+    padding-right: 50px; */
 
     
 }  
-#imgs2{
+/* #imgs2{
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -260,7 +260,7 @@ th:hover{
     margin: 20px;
     opacity: 0.5;       /*makes inputfield see through*/
 }
-::placeholder{
+/* ::placeholder{
     color: white;
     opacity: 1;
     padding-left: 10px;
@@ -313,4 +313,4 @@ th:hover{
     height:55px ;
     color: #F15A29;
     border:1px solid #F15A29;
-}
+} */ */ */
