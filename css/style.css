@@ -151,8 +151,12 @@ tr#service1{
     text-align: right;
     font-size: 18px;  
 }
+
+
+/* menuitems section */
+
 .menuitems{
-    background-image: url('../images/foodsBg.jpg');
+    /* background-image: url('../images/foodsBg.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     text-align: center;
@@ -318,4 +322,4 @@ th:hover{
     height:55px ;
     color: #F15A29;
     border:1px solid #F15A29;
-} */ */ */
+} */ */ */ */
